@@ -1,0 +1,8 @@
+snowflake:
+    user: xxx
+    password: xxx
+    account: xxx
+    role: xxx
+    warehouse: xxx
+app:
+    definition: config.csv
